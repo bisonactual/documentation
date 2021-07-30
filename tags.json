@@ -630,6 +630,13 @@
     "description": []
   },
   {
+    "title": "Google Cloud Platform",
+    "file_name": "Google_Cloud_Platform",
+    "url": "https://docs.hacman.org.uk/infrastructure/Google_Cloud_Platform/",
+    "tags": [],
+    "description": []
+  },
+  {
     "title": "NGINX SETUP",
     "file_name": "nginx",
     "url": "https://docs.hacman.org.uk/infrastructure/nginx/",
