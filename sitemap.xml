@@ -461,11 +461,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.hacman.org.uk/infrastructure/SpacePlan/</loc>
-         <lastmod>2022-07-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.hacman.org.uk/infrastructure/nginx/</loc>
          <lastmod>2022-07-16</lastmod>
          <changefreq>daily</changefreq>
