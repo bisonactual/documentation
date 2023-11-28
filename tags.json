@@ -429,6 +429,20 @@
   {
     "title": "Index",
     "file_name": "index",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Inductions/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Table of Contents",
+    "file_name": "mitreband",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Inductions/mitreband/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Index",
+    "file_name": "index",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Metalwork/",
     "tags": [],
     "description": []
@@ -640,6 +654,27 @@
     "title": "Wood Lathe",
     "file_name": "Wood_Lathe",
     "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Equipment/Wood_Lathe/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Table of Contents",
+    "file_name": "mitrebandinductioncontent",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/mitrebandinductioncontent/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Index",
+    "file_name": "index",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/trainer_guides/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Table of Contents",
+    "file_name": "mitreband",
+    "url": "https://docs.hacman.org.uk/Workshop_Areas/Woodwork/Inductions/trainer_guides/mitreband/",
     "tags": [],
     "description": []
   },
