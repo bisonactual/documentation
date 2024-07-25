@@ -1,0 +1,32 @@
+Sgt chunky is a new CNC machine, built from scratch in the Hackspace and on loan from the member who built it. It is largely based on the open source project PrintNC v4, though with some modifications. The PrintNC is successfully used in industry and commercially, and is a modern and currently maintained open source project.
+
+Chunky is so named due to the small work area of 600x450 (actually 500, but the last 50 is reserved for ATC and toolsetting) and the rigid specifications specifically designed by the owner for excellent drilling and boring. 
+
+Chunky is able to cut all sorts of plastics and wood, aluminium and other soft metals, mild steel, as well as stainless and toolsteel with the correct experience. It will hopefully be available soon for member use and features the following specifications:
+
+Around 500kg in total. 
+ER20 water cooled spindle with ceramic bearings
+Capable of 25k mm/min rapids, and 20k feed cutting soft woods
+Cuts wood at 16k mm/min with 45mm step down 
+Controller is the excellent FlexiHal by expatria 
+GRBLHAL software, interfaced through a sender
+Real time control and jog controller with DRO
+Semi automatic tool changing, 3d probing, and tool setting 
+Fully enclosed, with 3 cameras for monitoring, including a spindle camera
+Vacuum, air lines, and advanced MQL system for metals
+Over 500 holes tapped during construction!
+Plans for a 4th (lathe) axis, and ATC
+Holds accuracy to approximately 0.05mm
+
+The machine is almost complete and the following tasks must be done before members can be inducted:
+
+Air lines installed - these are ordered and will be installed soon (2 weeks goal)
+MQL system installed. This will be ready after the air system is, pending finding acceptable coolant. (5 week goal) it requires a pressurised coolant tank and specialist ultrasonic nozzle to reach desired flow and spray pattern.
+Workholding installed. The first phase of this includes installing t tracks into the spoil board and making jigs. (3 weeks goal)
+Vacuum system improved. This involves some planning for improved vacuum flow. 4 weeks goal
+LEDs installed, (4 weeks goal)
+Security improved, touchscreen monitor and workstation setup. (8 week goal)
+Risk assessment written (8 week goal)
+Induction process created. This will probably be a 2 stage process for most people, with the first session dedicated to machining principles, design, and safety, and the second on implementing the design to make things. This is especially exciting since we hope to bring cnc to the Hackspace in an accessible and non scary way.  But due to complexity may take a while (12 week goal) 
+
+Chunky is currently maintained by a small team, including capuchin, loopy, and Stephen, who have all done excellent work during construction and the various frustrations of things going wrong! Further pages under this will follow, covering the basics of cnc and how to get started. 
